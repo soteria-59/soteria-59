@@ -54,7 +54,7 @@ AI & automation specifics:
 ---
 
 ## Selected projects
-(links to public repos; private repos are on request)
+(links to public repos; private repos a)
 
 - [autto-marketer-](https://github.com/soteria-59/autto-marketer-) — Scrapes Google for marketing data and generates marketing assets via a GUI and web interface. (JavaScript)  
 - [n8n-templates--borrowed-from-a-sail-25-private-account](https://github.com/soteria-59/n8n-templates--borrowed-from-a-sail-25-private-account) — Collection of n8n automation templates and enterprise workflows; integrations for Gmail, WhatsApp, and common services.  
@@ -69,7 +69,7 @@ AI & automation specifics:
 - [Linda](https://github.com/soteria-59/Linda) — Mobile app focused on safety and routing for Kenyan users; anonymity and offline-first features.  
 - nextjs-ai-chatbot — (private) Next.js chatbot project (TypeScript).
 
-If you'd like, I can pin up to 6 of these on your profile and produce concise, non‑fluffy one-line descriptions for each.
+
 
 ---
 
