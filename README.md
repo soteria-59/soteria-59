@@ -54,7 +54,7 @@ AI & automation specifics:
 ---
 
 ## Selected projects
-(links to public repos; private repos are noted)
+(links to public repos; private repos are on request)
 
 - [autto-marketer-](https://github.com/soteria-59/autto-marketer-) — Scrapes Google for marketing data and generates marketing assets via a GUI and web interface. (JavaScript)  
 - [n8n-templates--borrowed-from-a-sail-25-private-account](https://github.com/soteria-59/n8n-templates--borrowed-from-a-sail-25-private-account) — Collection of n8n automation templates and enterprise workflows; integrations for Gmail, WhatsApp, and common services.  
