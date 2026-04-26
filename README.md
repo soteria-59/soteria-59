@@ -83,7 +83,6 @@ AI & automation specifics:
 ## Get in touch
 If you want contact details or a portfolio link added, tell me which to include:
 - Email: gfordevowrks@gmail.com
--Website: www.sailcraftsolutions.co.ke 
 
 ---
 
