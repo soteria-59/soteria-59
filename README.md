@@ -11,29 +11,6 @@ I build reliable, practical software and ship useful products. I focus on readab
 
 ---
 
-## Frameworks & Tools
-
-- **Frontend / Full-Stack**  
-  Next.js (App Router + React Server Components + Server Actions)  
-  React / React Native (mobile & web)  
-  Tailwind CSS + shadcn/ui + Radix UI (clean, accessible, customizable UI)
-
-- **AI & LLM Integration**  
-  Vercel AI SDK (multi-provider: ,routers.)  
-  Prompt engineering + RAG patterns (via templates & custom implementations)  
-  n8n (AI agents, workflows, enterprise integrations)
-
-- **Backend & Data**  
-  Node.js / TypeScript APIs  
-  Drizzle ORM + Neon Serverless Postgres  
-  Vercel Blob (file handling)  
-  FastAPI (Python APIs — in planning / active use)
-
-- **Authentication & Security**  
-  Auth.js (NextAuth) — OAuth, JWT, secure sessions  
-  Offline-first & secure patterns (mobile safety focus)
-
----
 
 ## Architecture Philosophy
 
@@ -50,25 +27,6 @@ AI & automation specifics:
 - Combine vector stores + hybrid search for RAG workflows.  
 - Coordinate multi-step automations with lightweight orchestrators or workflow tools (n8n, task queues).  
 - Default to safe data handling: anonymization, rate limits, conservative telemetry.
-
----
-
-## Selected projects
-(links to public repos; private repos a)
-
-- [autto-marketer-](https://github.com/soteria-59/autto-marketer-) — Scrapes Google for marketing data and generates marketing assets via a GUI and web interface. (JavaScript)  
-- [n8n-templates--borrowed-from-a-sail-25-private-account](https://github.com/soteria-59/n8n-templates--borrowed-from-a-sail-25-private-account) — Collection of n8n automation templates and enterprise workflows; integrations for Gmail, WhatsApp, and common services.  
-- [gpt-engineer-sm444](https://github.com/soteria-59/gpt-engineer-sm444) — CLI platform for experimenting with programmatic code generation; precursor to https://lovable.dev. (Python, MIT)  
-- [whatsapp-MCP](https://github.com/soteria-59/whatsapp-MCP) — Message-sending service for WhatsApp with media support. (Python, MIT)  
-- [dyad-for-SC](https://github.com/soteria-59/dyad-for-SC) — Fork of dyad-sh/dyad; a local, open-source app builder and developer tooling. (TypeScript, Apache-2.0)  
-- auto-scribe-buddy — (private) Backend that uses Notion as a content source to discover trends and generate blog drafts.  
-- [Bloglandingpagedesign](https://github.com/soteria-59/Bloglandingpagedesign) — Notion-backed blog landing page generator. (TypeScript)  
-- [THe-leap-project-](https://github.com/soteria-59/THe-leap-project-) — Dashboard and admin UI for the Leap project. (TypeScript)  
-- kovera-prime — (private) TypeScript project in active development.  
-- [graph-sitter-1](https://github.com/soteria-59/graph-sitter-1) — Scriptable interface to a multi-lingual language server (fork). (Python, Apache-2.0)  
-- [Linda](https://github.com/soteria-59/Linda) — Mobile app focused on safety and routing for Kenyan users; anonymity and offline-first features.  
-- nextjs-ai-chatbot — (private) Next.js chatbot project (TypeScript).
-
 
 
 ---
