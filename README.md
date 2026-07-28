@@ -4,7 +4,7 @@
 
 I build reliable, practical software and ship useful products. I focus on readable code, clear architecture, and measurable outcomes. When I'm not building software I assemble and repair custom, high-performance PCs.
 
-- 🔭 Currently: building tools and dashboards to automate workflows and improve business productivity.  
+- 🔭 Currently: building tools to automate workflows and improve business productivity.  
 - 🌱 Learning: scalable backend patterns, observability, and developer tooling.  
 - 👯 Open to: collaboration on open-source projects and automation tooling.  
 - ⚡ Fun fact: I enjoy turning difficult edge cases into simple, well-testable solutions.
