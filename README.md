@@ -6,7 +6,6 @@ I build reliable, practical software and ship useful products. I focus on readab
 
 - 🔭 Currently: building tools to automate workflows and improve business productivity.  
 - 🌱 Learning: scalable backend patterns, observability, and developer tooling.  
-- 👯 Open to work. 
 - ⚡ Fun fact: I enjoy turning difficult edge cases into simple, well-testable solutions.
 
 
@@ -28,4 +27,4 @@ Send a mesage
 ---
 
 
-Made with focus for — © 2026 
+Focus for — © 2026 
